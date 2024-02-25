@@ -1,2 +1,3 @@
 # PyViz-Knowledge-Graph-Creation
-Using Spacy for Entity extraction and NetworkX and Pyviz to create Knowledge Graphs to show analyze Knowledge Base Articles
+This project focused on exploring the potential of SpaCy for entity extraction and NetworkX and Pyviz for creating Knowledge Graphs. The primary objective was to investigate how SpaCy could effectively extract entities and relationships from a collection of customer-facing Knowledge Base articles. By utilizing these extractions, we then constructed knowledge graphs to uncover patterns and similarities that could inform feature selection for trend analysis.  This initial model and study served as an intriguing exploration that significantly contributed to shaping the project. It laid the foundation for further development and provided valuable insights that influenced subsequent stages.
+
